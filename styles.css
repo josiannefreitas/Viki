@@ -24,12 +24,12 @@ p {
 }
 
 body {
-  background-image: url(/assets/bg.png);
+  background-image: url(https://static.wixstatic.com/media/cdcab8_7d4d41c656f346f3863c4e8b43286114~mv2.png/v1/fill/w_925,h_695,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/cdcab8_7d4d41c656f346f3863c4e8b43286114~mv2.png);
   background-position: top center;
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: #29663d;
+  /* background-color: #29663d; */
 }
 
 body {
